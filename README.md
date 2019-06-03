@@ -1,4 +1,4 @@
-s# Responsive Features Code-Along
+gis# Responsive Features Code-Along
 
 ## Overview
 
